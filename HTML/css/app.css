@@ -546,14 +546,14 @@ nav .pull {
 .socials li a {
   color: #FFF;
   float: left;
-  background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w.png') no-repeat;
+  background: url('../images/smallhex_w.png') no-repeat;
   width: 31px;
   height: 34px;
   margin: 0 2px;
 }
 
 .socials li a:hover {
-  background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w.png') bottom no-repeat;
+  background: url('../images/smallhex_w.png') bottom no-repeat;
 }
 
 /* 2. Section Title */
@@ -817,7 +817,7 @@ blockquote.rotator p{
 }
 
 .hex {
-  background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex.png') center no-repeat;
+  background: url('../images/hex.png') center no-repeat;
   font-size: 38px;
   padding: 40px 0 35px;
   margin: 0 auto 20px;
@@ -836,7 +836,7 @@ blockquote.rotator p{
   -webkit-transform: rotate(-30deg);
   -moz-transform: rotate(-30deg);
   -o-transform: rotate(-30deg);
-  background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex-green.png') center no-repeat;
+  background: url('../images/hex-green.png') center no-repeat;
 }
 
 .hex span {
@@ -997,7 +997,7 @@ blockquote.rotator p{
 }
 
 .picture ul li a{
-  background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex.png') 0 -54px no-repeat;
+  background: url('../images/smallhex.png') 0 -54px no-repeat;
   height: 27px;
   width: 25px;
   display: block;
@@ -1015,7 +1015,7 @@ blockquote.rotator p{
 }
 
 .picture ul li a:hover{
-  background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex.png') 0 bottom no-repeat;
+  background: url('../images/smallhex.png') 0 bottom no-repeat;
 }
 
 .picture ul li a:hover i{
@@ -1749,32 +1749,32 @@ and (orientation : landscape) {
 @media all and (-webkit-min-device-pixel-ratio: 1.5) {
 
   .hex {
-    background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex@2x.png') center no-repeat;
+    background: url('../images/hex@2x.png') center no-repeat;
     background-size: 113px 125px;
   }
 
   .hex:hover {
-    background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex-green@2x.png') center no-repeat;
+    background: url('../images/hex-green@2x.png') center no-repeat;
     background-size: 113px 125px;
   }
 
   .picture ul li a{
-    background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex@2x.png') center 66% no-repeat;
+    background: url('../images/smallhex@2x.png') center 66% no-repeat;
     background-size: 25px auto;
   }
 
   .picture ul li a:hover{
-    background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex@2x.png') center bottom no-repeat;
+    background: url('../images/smallhex@2x.png') center bottom no-repeat;
     background-size: 25px auto;
   }
 
   .socials li a {
-    background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w@2x.png') no-repeat;
+    background: url('../images/smallhex_w@2x.png') no-repeat;
     background-size: 31px auto;
   }
 
   .socials li a:hover {
-    background: url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w@2x.png') bottom no-repeat;
+    background: url('../images/smallhex_w@2x.png') bottom no-repeat;
     background-size: 31px auto;
   }
 
@@ -2231,10 +2231,10 @@ and (orientation : landscape) {
 
 @font-face{
   font-family:'FontAwesome';
-  src:url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/font/fontawesome-webfont.eot?v=3.0.1');
-  src:url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/font/fontawesome-webfont.eot?#iefix&v=3.0.1') format('embedded-opentype'),
-  url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/font/fontawesome-webfont.woff?v=3.0.1') format('woff'),
-  url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/font/fontawesome-webfont.ttf?v=3.0.1') format('truetype');
+  src:url('../font/fontawesome-webfont.eot?v=3.0.1');
+  src:url('../font/fontawesome-webfont.eot?#iefix&v=3.0.1') format('embedded-opentype'),
+  url('../font/fontawesome-webfont.woff?v=3.0.1') format('woff'),
+  url('../font/fontawesome-webfont.ttf?v=3.0.1') format('truetype');
   font-weight:normal;
   font-style:normal }
 
@@ -2242,7 +2242,7 @@ and (orientation : landscape) {
 
 @font-face {
   font-family: 'linecons';
-  src:url('https://raw.github.com/vosechu/bootcamp_theme/master/HTML/font/linecons.eot');
+  src:url('../font/linecons.eot');
 }
 @font-face {
   font-family: 'linecons';

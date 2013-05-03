@@ -546,14 +546,14 @@ nav .pull {
 .socials li a {
   color: #FFF;
   float: left;
-  background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w.png') no-repeat;
+  background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w.png') no-repeat;
   width: 31px;
   height: 34px;
   margin: 0 2px;
 }
 
 .socials li a:hover {
-  background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w.png') bottom no-repeat;
+  background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w.png') bottom no-repeat;
 }
 
 /* 2. Section Title */
@@ -594,7 +594,7 @@ nav .pull {
 /* 1. Promotion
 ==================================== */
 .buy {
-  background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 0 no-repeat fixed;
+  background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 0 no-repeat fixed;
   overflow: hidden;
   width: 100%;
   max-width: 1920px;
@@ -621,7 +621,7 @@ nav .pull {
 /* 2. Work With Us
 ==================================== */
 .work {
-  background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 0 no-repeat fixed;
+  background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 0 no-repeat fixed;
   overflow: hidden;
   width: 100%;
   max-width: 1920px;
@@ -653,7 +653,7 @@ nav .pull {
 /* 3. Testimonials
 ==================================== */
 .testimonials {
-  background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 0 no-repeat fixed;
+  background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 0 no-repeat fixed;
   overflow: hidden;
   width: 100%;
   max-width: 1920px;
@@ -700,7 +700,7 @@ blockquote.rotator p{
 /* 4. Newsletter
 ==================================== */
 .newsletter {
-  background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 0 0 no-repeat fixed;
+  background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 0 0 no-repeat fixed;
   overflow: hidden;
   width: 100%;
   max-width: 1920px;
@@ -817,7 +817,7 @@ blockquote.rotator p{
 }
 
 .hex {
-  background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex.png') center no-repeat;
+  background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex.png') center no-repeat;
   font-size: 38px;
   padding: 40px 0 35px;
   margin: 0 auto 20px;
@@ -836,7 +836,7 @@ blockquote.rotator p{
   -webkit-transform: rotate(-30deg);
   -moz-transform: rotate(-30deg);
   -o-transform: rotate(-30deg);
-  background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex-green.png') center no-repeat;
+  background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex-green.png') center no-repeat;
 }
 
 .hex span {
@@ -997,7 +997,7 @@ blockquote.rotator p{
 }
 
 .picture ul li a{
-  background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex.png') 0 -54px no-repeat;
+  background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex.png') 0 -54px no-repeat;
   height: 27px;
   width: 25px;
   display: block;
@@ -1015,7 +1015,7 @@ blockquote.rotator p{
 }
 
 .picture ul li a:hover{
-  background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex.png') 0 bottom no-repeat;
+  background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex.png') 0 bottom no-repeat;
 }
 
 .picture ul li a:hover i{
@@ -1486,7 +1486,7 @@ strong.green {color: #8ebd00;}
 }
 
 .loading {
-  background:url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/ajax-loader.gif) no-repeat;
+  background:url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/ajax-loader.gif) no-repeat;
   height:28px;
   width:28px;
   display: none;
@@ -1592,19 +1592,19 @@ footer {
 and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (orientation : landscape) {
-  .buy { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 50% no-repeat!important; }
-  .work { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 50% no-repeat!important; }
-  .testimonials { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 50% no-repeat!important; }
-  .newsletter { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 0 50% no-repeat!important;}
+  .buy { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 50% no-repeat!important; }
+  .work { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 50% no-repeat!important; }
+  .testimonials { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 50% no-repeat!important; }
+  .newsletter { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 0 50% no-repeat!important;}
   .buy, .work, .testimonials , .newsletter { -webkit-background-size: 1024px auto!important;}
 }
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-  .buy { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 50% no-repeat!important; }
-  .work { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 50% no-repeat!important; }
-  .testimonials { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 50% no-repeat!important; }
-  .newsletter { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 0 50% no-repeat!important; }
+  .buy { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 50% no-repeat!important; }
+  .work { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 50% no-repeat!important; }
+  .testimonials { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 50% no-repeat!important; }
+  .newsletter { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 0 50% no-repeat!important; }
   .buy, .work, .testimonials, .newsletter { -webkit-background-size: 959px auto!important;}
 
   .white-overlay,
@@ -1630,10 +1630,10 @@ and (orientation : landscape) {
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (max-width: 767px) {
 
-  .buy { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 50% no-repeat!important; }
-  .work { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 50% no-repeat!important; }
-  .testimonials { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 50% no-repeat!important; }
-  .newsletter { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 50% 50% no-repeat!important; }
+  .buy { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) 0 50% no-repeat!important; }
+  .work { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/faces.jpg) 0 50% no-repeat!important; }
+  .testimonials { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/sailing.jpg) 0 50% no-repeat!important; }
+  .newsletter { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/dog.jpg) 50% 50% no-repeat!important; }
   .buy, .work, .testimonials, .newsletter { -webkit-background-size: 767px auto!important;}
 
   .white-overlay,
@@ -1648,7 +1648,7 @@ and (orientation : landscape) {
 
   .button {font-size: 13px; padding: 6px 25px;}
 
-  .buy { background: url(../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) no-repeat; }
+  .buy { background: url(http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/b2.jpg) no-repeat; }
 
   nav {
     border-bottom: 0;
@@ -1749,32 +1749,32 @@ and (orientation : landscape) {
 @media all and (-webkit-min-device-pixel-ratio: 1.5) {
 
   .hex {
-    background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex@2x.png') center no-repeat;
+    background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex@2x.png') center no-repeat;
     background-size: 113px 125px;
   }
 
   .hex:hover {
-    background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex-green@2x.png') center no-repeat;
+    background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/hex-green@2x.png') center no-repeat;
     background-size: 113px 125px;
   }
 
   .picture ul li a{
-    background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex@2x.png') center 66% no-repeat;
+    background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex@2x.png') center 66% no-repeat;
     background-size: 25px auto;
   }
 
   .picture ul li a:hover{
-    background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex@2x.png') center bottom no-repeat;
+    background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex@2x.png') center bottom no-repeat;
     background-size: 25px auto;
   }
 
   .socials li a {
-    background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w@2x.png') no-repeat;
+    background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w@2x.png') no-repeat;
     background-size: 31px auto;
   }
 
   .socials li a:hover {
-    background: url('../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w@2x.png') bottom no-repeat;
+    background: url('http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/smallhex_w@2x.png') bottom no-repeat;
     background-size: 31px auto;
   }
 
@@ -2015,7 +2015,7 @@ and (orientation : landscape) {
 }
 
 #swipebox-slider .slide {
-  background: url("../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/loader.gif") no-repeat center center;
+  background: url("http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/loader.gif") no-repeat center center;
   height: 100%;
   line-height: 1px;
   text-align: center;
@@ -2073,7 +2073,7 @@ and (orientation : landscape) {
 
 #swipebox-action #swipebox-prev, #swipebox-action #swipebox-next,
 #swipebox-action #swipebox-close {
-  background-image: url("../http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/icons.png");
+  background-image: url("http://raw.github.com/vosechu/bootcamp_theme/master/HTML/images/icons.png");
   background-repeat: no-repeat;
   border: none!important;
   text-decoration: none!important;
